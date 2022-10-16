@@ -1,5 +1,5 @@
 package sayhigo
 
 func SayHello() string {
-	return "Hi IWWWWW"
+	return "Hi IWWWWW & Tuss"
 }
