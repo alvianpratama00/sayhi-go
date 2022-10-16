@@ -1,5 +1,5 @@
 package sayhigo
 
-func SayHello() string {
-	return "Hi IWWWWW & Tuss"
+func SayHello(name string) string {
+	return "Hello " + name
 }
